@@ -16,12 +16,9 @@ function App() {
 
 
   const handleMakeSomething = async(result) => {
-    await controller.getConnectedAccount();
+
     // YOUR TEST CODE HERE:
-    var items
-    items = {amount: 3, assetGuid: '1524267225'}
-    result = await controller.handleIssueSPT(items)
-    console.log('token issued')
+
 
     // EXAMPLE OF PROMISE CHAIN
     //if (controller) {
