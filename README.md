@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# First App for the Pali Wallet Documentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an test model App for the Pali Wallet. It follows the usage in the Getting Started section of the [Pali Wallet Documentation]() (link to be provided). Some ready-to-use functions are commented in the /src/App.js file. 
+
+After downloading, you should start with `yarn install` and then `ỳarn start`.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The following is a series of commands for React.
 
 ## Available Scripts
 
