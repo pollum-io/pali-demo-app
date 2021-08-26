@@ -1,6 +1,8 @@
 # First App for the Pali Wallet Documentation
 
-This is an test model App for the Pali Wallet. It follows the usage in the Getting Started section of the [Pali Wallet Documentation]() (link to be provided). Some ready-to-use functions are commented in the /src/App.js file. 
+This is an test model App for the Pali Wallet. It follows the usage in the _Getting Started_ section of the [Pali Wallet Documentation](https://pali-docs.vercel.app/guide/Getting_Started.html). Some ready-to-use functions are commented in the /src/App.js file. 
+
+If you are searching for the `signTransaction()` App, continue to the SingTX folder.
 
 After downloading, you should start with `yarn install` and then `ỳarn start`.
 
